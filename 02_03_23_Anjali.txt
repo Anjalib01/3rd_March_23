@@ -1,0 +1,16 @@
+/*DATE-02 MARCH 2023*/
+
+TSK-1ST(using command prompt)
+1)created directory using command prompt using md cmd .
+2)directories are training->training_subfolder-.training_sub_subfolder.
+3)inside this directory created txt file called "task.txt" using "type nul> cmd.
+4)copied this directory to another directory using "xcop" cmd and "/E /I".
+
+TASK-2ND(using sts)
+1)using sts created project called "dayOne"
+2)created simple java program and did degugging.
+(used  "f6"  key which is used to stepover while degugging & "f8" is used to jump to next nearer breakpoint) 
+3)created another java progran which call external method
+(used  "f5"  key which is used to go inside the method while degugging)
+4)created a class which contains "for loop" runs for 10 iterations. 
+5)gave conditional breakpoint at i==7 by going using breakpoint properties.
